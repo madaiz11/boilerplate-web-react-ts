@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.vite
+.tmp
+coverage
+.idea
+.vscode
+
+.*cursor/
