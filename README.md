@@ -23,3 +23,8 @@ npm run lint:fix # biome check --write
 ## Path alias
 
 Use `@/` for `src/`, e.g. `import { X } from "@/components/X"`.
+
+
+## Figma
+
+https://www.figma.com/make/V70FXUttw7uvTnw99fbtgA/Sales-Catalog-Management-App?t=97GNliTuLIpKSlBW-1

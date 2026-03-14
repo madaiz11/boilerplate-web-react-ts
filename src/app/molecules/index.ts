@@ -1,0 +1,1 @@
+export { default as CatalogProductCard } from "./catalog-product-card/catalog-product-card.molecules";
